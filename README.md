@@ -8,3 +8,4 @@ written by user1 third<br>
 written by user2 second<br>
 added hotfix branch<br>
 written by user2 git --rebase<br>
+written by user2 git --rebase for second time<br>
